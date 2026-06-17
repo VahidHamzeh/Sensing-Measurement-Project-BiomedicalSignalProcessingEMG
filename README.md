@@ -1,3 +1,8 @@
+![Signal Processing](https://img.shields.io/badge/Domain-EMG_Signal_Processing-blue?style=for-the-badge&logo=mathworks&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Features-RMS_&_SSC-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Models-KNN_&_RandomForest-red?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
+
 # EMG-Based Hand Gesture Recognition
 
 This project, developed for the **Sensors and Measurement Systems** course at **Sharif University of Technology** (Fall 2025), focuses on the end-to-end implementation of a Machine Learning pipeline to classify hand gestures based on Surface Electromyography (EMG) signals.
